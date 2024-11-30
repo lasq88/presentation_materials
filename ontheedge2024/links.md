@@ -1,3 +1,7 @@
+### Slides
+
+* https://docs.google.com/presentation/d/1cOqy5_FACKiODigapK6dxYb_eybqHsqDawMnA05343I/edit?usp=sharing
+
 ### UNC4841 :
 * https://cloud.google.com/blog/topics/threat-intelligence/barracuda-esg-exploited-globally
 * https://cloud.google.com/blog/topics/threat-intelligence/unc4841-post-barracuda-zero-day-remediation
